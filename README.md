@@ -16,8 +16,8 @@ Syntax highlighted code block
 ### Header 3
 
 # First Practice
-- Learn how to edit Git hub
-- Master the web design
+- **Learn how to edit Git hub**
+- _Master the web design_
 
 ## Second Practice
 1. Start on the homework challenge
@@ -28,6 +28,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+### Smaller
 
 **Bold** and _Italic_ and `Code` text
 
