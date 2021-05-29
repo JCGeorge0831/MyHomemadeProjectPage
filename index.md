@@ -1,4 +1,4 @@
-## Welcome to Jeneice George's GitHub Pages
+## Welcome to Jeneice George's Web Design
 
 You can use the [editor on GitHub](https://github.com/JCGeorge0831/MyHomemadeProjectPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,6 +14,14 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+# First Practice
+- Learn how to edit Git hub
+- Master the web design
+
+## Second Practice
+1. Start on the homework challenge
+2. Finish by tomorrow morning
 
 - Bulleted
 - List
